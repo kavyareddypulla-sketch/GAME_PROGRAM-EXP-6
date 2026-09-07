@@ -1,4 +1,5 @@
-# GAME_PROGRAM-EXP-6AI Random Roam with Chase - Unreal Engine
+# GAME_PROGRAM-EXP-6
+# AI Random Roam with Chase - Unreal Engine
 # Aim
 
 To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases the player when they come within a certain range, using Behavior Trees, Blackboard, and AI Perception.
